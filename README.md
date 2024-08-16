@@ -10,13 +10,13 @@ We get data from kaggle then apply a logic to get multi-class classification eva
 
 **Transfer Learning:**
 
-What it does: It adapts a model trained on one task to a related task using the knowledge from the original task. The pre-trained model is fine-tuned on new, often smaller, datasets to improve performance on the new task.
-Typical use: When you have a related task but not enough data to train a model from scratch.
+- What it does: It adapts a model trained on one task to a related task using the knowledge from the original task. The pre-trained model is fine-tuned on new, often smaller, datasets to improve performance on the new task.
+- Typical use: When you have a related task but not enough data to train a model from scratch.
 
 **Zero-Shot Classification:**
 
-What it does: It classifies data into categories it has never seen before by using semantic descriptions or attributes of the categories. It doesn’t require new training examples for those categories.
-Typical use: When you want the model to handle new categories based on descriptions or related features.
+- What it does: It classifies data into categories it has never seen before by using semantic descriptions or attributes of the categories. It doesn’t require new training examples for those categories.
+- Typical use: When you want the model to handle new categories based on descriptions or related features.
 
 **How they overlap:**
 
