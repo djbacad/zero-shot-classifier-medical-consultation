@@ -3,7 +3,7 @@ Zero-Shot Classification for Medical Assistance
 
 ### Project Description
 
-Nothing fancy here. Just trying out how accurate facebook's bart-large-mnli can categorize medical transcripts. 
+Nothing fancy here. Just trying out how accurate a small model (tasksource/deberta-small-long-nli) can categorize medical transcripts. 
 We get data from kaggle then apply a logic to get multi-class classification evaluation metrics.
 
 ### Zero-shot learning vs Transfer learning
